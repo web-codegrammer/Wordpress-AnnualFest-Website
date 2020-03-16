@@ -1,0 +1,70 @@
+.ivanicof-instagram-widget {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-wrap: wrap;
+	flex-wrap: wrap;
+	align-content: stretch;
+	margin: 0 auto;
+	
+}
+
+.ivanicof-instagram-widget .insta-item{
+	position: relative;
+	max-height: 120px;
+    overflow: hidden;
+}
+
+.ivanicof-instagram-widget a {
+	-moz-box-shadow:  none;
+  	-webkit-box-shadow: none;
+  	box-shadow: none;
+	display: block;
+	font-size: 0;
+	border: none;
+	outline: 0;
+	margin: 0;
+	padding: 0;
+	cursor: pointer;
+}
+.ivanicof-instagram-widget a img {
+	-moz-box-shadow:  none;
+  	-webkit-box-shadow: none;
+  	box-shadow: none;
+	border: none;
+	outline: 0;
+	margin: 0;
+	padding: 0;
+}
+
+.ivanicof-instagram-widget .insta-img-wrapp{
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	height: 100%;
+	opacity: 0;;
+	background-color: rgba(0, 0, 0, .6);
+	transition: opacity .6s;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+	color: white;
+}
+.ivanicof-instagram-widget .insta-img-wrapp:hover{
+	opacity: 1;
+}
+
+.ivanicof-instagram-widget .insta-img-wrapp i{
+	font-size: 1.5rem;
+}
+
+.ivanicof-instagram-follow-link {
+	display: block;
+	margin: 20px 0 0 0;
+}
+
+.ivanicof-instagram-follow-link a{
+	width: 100%;
+}
