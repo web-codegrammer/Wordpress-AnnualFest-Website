@@ -1,5 +1,6 @@
 # Bharatiyam-2020-website
-This is the official website of National Level Annual Techno fest of BV(DU)COEP totally made from scratch using wordpress
+This is the official website of National Level Annual Techno fest of BV(DU)COEP totally made from scratch using wordpress 
+Made with ♥ by "DEVANSHU VASHISHTHA | Bharatiyam 2020 Website Head
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -94,7 +95,7 @@ This is the official website of National Level Annual Techno fest of BV(DU)COEP 
 <p>WordPress is the official continuation of <a href="http://cafelog.com/">b2/caf&#233;log</a>, which came from Michel V. The work has been continued by the <a href="https://wordpress.org/about/">WordPress developers</a>. If you would like to support WordPress, please consider <a href="https://wordpress.org/donate/">donating</a>.</p>
 
 <h2>License</h2>
-<p>WordPress is free software, and is released under the terms of the <abbr>GPL</abbr> (GNU General Public License) version 2 or (at your option) any later version. See <a href="license.txt">license.txt</a>.</p>
+<p>WordPress is free software, and is released under the terms of the <abbr>GPL</abbr> (GNU General Public License) version 2 or (at your option) any later version. See <a href="license.md">license.md</a>.</p>
 
 </body>
 </html>
