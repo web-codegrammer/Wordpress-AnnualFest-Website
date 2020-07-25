@@ -98,5 +98,7 @@ Made with ♥ by "DEVANSHU VASHISHTHA | Bharatiyam 2020 Website Head
 <h2>License</h2>
 <p>WordPress is free software, and is released under the terms of the <abbr>GPL</abbr> (GNU General Public License) version 2 or (at your option) any later version. See <a href="LICENSE">LICENSE</a>.</p>
 
+Issued to ```Devanshu Vashishtha``` | All Rights Reserved | 2020
+
 </body>
 </html>
